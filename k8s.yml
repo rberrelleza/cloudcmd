@@ -27,7 +27,7 @@ spec:
   template:
     metadata:
       labels:
-        app: cloudcmd
+        app: cloudcmd-pv
     spec:
       containers:
         - name: cloudcmd
